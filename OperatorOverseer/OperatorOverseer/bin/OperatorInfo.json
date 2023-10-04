@@ -1,0 +1,324 @@
+[
+  {
+    "Number": 0,
+    "Name": "Developer",
+    "LastName": "Tester",
+    "Device": "",
+    "Permissions": {
+      "BrightnessContrast": false,
+      "PaintBoth": true,
+      "Pavement": false,
+      "SavePng": true,
+      "Labels": true
+    },
+    "Devices": []
+  },
+  {
+    "Number": 78,
+    "Name": "Jessica",
+    "LastName": "Leandro",
+    "Device": "",
+    "Permissions": {
+      "BrightnessContrast": true,
+      "PaintBoth": false,
+      "Pavement": true,
+      "SavePng": true,
+      "Labels": false
+    },
+    "Devices": []
+  },
+  {
+    "Number": 88,
+    "Name": "Gabriel",
+    "LastName": "Cortez",
+    "Device": "VWS10",
+    "Permissions": {
+      "BrightnessContrast": false,
+      "PaintBoth": false,
+      "Pavement": false,
+      "SavePng": false,
+      "Labels": false
+    },
+    "Devices": []
+  },
+  {
+    "Number": 148,
+    "Name": "Priscilla",
+    "LastName": "Castro",
+    "Device": "WSD202",
+    "Permissions": {
+      "BrightnessContrast": false,
+      "PaintBoth": false,
+      "Pavement": false,
+      "SavePng": false,
+      "Labels": false
+    },
+    "Devices": []
+  },
+  {
+    "Number": 173,
+    "Name": "Noel",
+    "LastName": "Solano",
+    "Device": "VWS08",
+    "Permissions": {
+      "BrightnessContrast": false,
+      "PaintBoth": false,
+      "Pavement": false,
+      "SavePng": false,
+      "Labels": false
+    },
+    "Devices": []
+  },
+  {
+    "Number": 176,
+    "Name": "Miguel",
+    "LastName": "Serrano",
+    "Device": "VWSD818",
+    "Permissions": {
+      "BrightnessContrast": false,
+      "PaintBoth": false,
+      "Pavement": false,
+      "SavePng": false,
+      "Labels": false
+    },
+    "Devices": []
+  },
+  {
+    "Number": 202,
+    "Name": "JuanCarlos",
+    "LastName": "Alvarado",
+    "Device": "VWSD703",
+    "Permissions": {
+      "BrightnessContrast": false,
+      "PaintBoth": false,
+      "Pavement": false,
+      "SavePng": false,
+      "Labels": false
+    },
+    "Devices": []
+  },
+  {
+    "Number": 218,
+    "Name": "Mario",
+    "LastName": "Moya",
+    "Device": "WSD717",
+    "Permissions": {
+      "BrightnessContrast": false,
+      "PaintBoth": false,
+      "Pavement": false,
+      "SavePng": false,
+      "Labels": false
+    },
+    "Devices": []
+  },
+  {
+    "Number": 226,
+    "Name": "Emily",
+    "LastName": "Valerio",
+    "Device": "",
+    "Permissions": {
+      "BrightnessContrast": true,
+      "PaintBoth": false,
+      "Pavement": true,
+      "SavePng": true,
+      "Labels": false
+    },
+    "Devices": []
+  },
+  {
+    "Number": 228,
+    "Name": "Isabel",
+    "LastName": "Cordero",
+    "Device": "VWS04",
+    "Permissions": {
+      "BrightnessContrast": false,
+      "PaintBoth": false,
+      "Pavement": false,
+      "SavePng": false,
+      "Labels": false
+    },
+    "Devices": []
+  },
+  {
+    "Number": 231,
+    "Name": "Andrey",
+    "LastName": "Salas",
+    "Device": "WSD206",
+    "Permissions": {
+      "BrightnessContrast": false,
+      "PaintBoth": false,
+      "Pavement": false,
+      "SavePng": false,
+      "Labels": false
+    },
+    "Devices": []
+  },
+  {
+    "Number": 236,
+    "Name": "Lizeth",
+    "LastName": "Guzmán",
+    "Device": "WSD718",
+    "Permissions": {
+      "BrightnessContrast": false,
+      "PaintBoth": false,
+      "Pavement": false,
+      "SavePng": false,
+      "Labels": false
+    },
+    "Devices": []
+  },
+  {
+    "Number": 238,
+    "Name": "Keiling",
+    "LastName": "Abarca",
+    "Device": "",
+    "Permissions": {
+      "BrightnessContrast": false,
+      "PaintBoth": false,
+      "Pavement": false,
+      "SavePng": false,
+      "Labels": false
+    },
+    "Devices": []
+  },
+  {
+    "Number": 239,
+    "Name": "Priscilla",
+    "LastName": "Quirós",
+    "Device": "WSD807",
+    "Permissions": {
+      "BrightnessContrast": false,
+      "PaintBoth": false,
+      "Pavement": false,
+      "SavePng": false,
+      "Labels": false
+    },
+    "Devices": []
+  },
+  {
+    "Number": 242,
+    "Name": "Esteban",
+    "LastName": "Tencio",
+    "Device": "WSD817",
+    "Permissions": {
+      "BrightnessContrast": false,
+      "PaintBoth": false,
+      "Pavement": false,
+      "SavePng": false,
+      "Labels": false
+    },
+    "Devices": []
+  },
+  {
+    "Number": 251,
+    "Name": "Jeison",
+    "LastName": "Barquero",
+    "Device": "VWS01",
+    "Permissions": {
+      "BrightnessContrast": false,
+      "PaintBoth": false,
+      "Pavement": false,
+      "SavePng": false,
+      "Labels": false
+    },
+    "Devices": []
+  },
+  {
+    "Number": 252,
+    "Name": "Catalina",
+    "LastName": "Sánchez",
+    "Device": "WSD803",
+    "Permissions": {
+      "BrightnessContrast": false,
+      "PaintBoth": false,
+      "Pavement": false,
+      "SavePng": false,
+      "Labels": false
+    },
+    "Devices": []
+  },
+  {
+    "Number": 267,
+    "Name": "Carlos",
+    "LastName": "Céspedes",
+    "Device": "WSD901",
+    "Permissions": {
+      "BrightnessContrast": false,
+      "PaintBoth": false,
+      "Pavement": false,
+      "SavePng": false,
+      "Labels": false
+    },
+    "Devices": []
+  },
+  {
+    "Number": 268,
+    "Name": "Luis",
+    "LastName": "Coto",
+    "Device": "WSD310",
+    "Permissions": {
+      "BrightnessContrast": false,
+      "PaintBoth": false,
+      "Pavement": false,
+      "SavePng": false,
+      "Labels": false
+    },
+    "Devices": []
+  },
+  {
+    "Number": 281,
+    "Name": "Mariana",
+    "LastName": "Rodríguez",
+    "Device": "WSD416",
+    "Permissions": {
+      "BrightnessContrast": false,
+      "PaintBoth": false,
+      "Pavement": false,
+      "SavePng": false,
+      "Labels": false
+    },
+    "Devices": []
+  },
+  {
+    "Number": 309,
+    "Name": "Fernanda",
+    "LastName": "Valerín",
+    "Device": "WSD410",
+    "Permissions": {
+      "BrightnessContrast": false,
+      "PaintBoth": false,
+      "Pavement": false,
+      "SavePng": false,
+      "Labels": false
+    },
+    "Devices": []
+  },
+  {
+    "Number": 311,
+    "Name": "Alejandro",
+    "LastName": "Sánchez",
+    "Device": "WSD813",
+    "Permissions": {
+      "BrightnessContrast": false,
+      "PaintBoth": false,
+      "Pavement": false,
+      "SavePng": false,
+      "Labels": false
+    },
+    "Devices": []
+  },
+  {
+    "Number": 319,
+    "Name": "JuanLuis",
+    "LastName": "Sánchez",
+    "Device": "WSD617",
+    "Permissions": {
+      "BrightnessContrast": false,
+      "PaintBoth": false,
+      "Pavement": false,
+      "SavePng": false,
+      "Labels": false
+    },
+    "Devices": []
+  }
+]
