@@ -107,5 +107,11 @@ namespace OperatorOverseer
         {
             e.Row.Header = (e.Row.GetIndex() + 1).ToString();
         }
+
+        private void OnClose(object sender, System.ComponentModel.CancelEventArgs e)
+        {
+            Application.Current.Shutdown();
+            return;
+        }
     }
 }
